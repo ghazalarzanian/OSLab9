@@ -1,0 +1,2 @@
+whoami
+id ghazal
